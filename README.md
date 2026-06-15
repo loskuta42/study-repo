@@ -1,4 +1,4 @@
-# study-repo
+# My Awesome Project"
 
 ## My Project Plan
 
