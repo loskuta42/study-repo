@@ -1,4 +1,4 @@
-# study-repo
+# My Super Project
 
 ## My Project Plan
 
